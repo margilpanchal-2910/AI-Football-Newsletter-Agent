@@ -19,7 +19,7 @@ from crewai_tools import SerperDevTool
 # OpenAIGPT3 = ChatOpenAI(model="gpt-3.5-turbo") # For testing
 # OpenAIGPT4 = ChatOpenAI(model="gpt-4-turbo")
 
-# Using Groq for the manager_llm
+# Using Groq for the manager_llm,
 
 
 # Streamlit callback function to display the agent's actions and observations
