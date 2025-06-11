@@ -20,10 +20,7 @@ from crewai_tools import SerperDevTool
 # OpenAIGPT4 = ChatOpenAI(model="gpt-4-turbo")
 
 # Using Groq for the manager_llm
-Groq = ChatGroq(
-    api_key='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',
-    model="groq/llama3-70b-8192"
-)
+
 
 # Streamlit callback function to display the agent's actions and observations
 
